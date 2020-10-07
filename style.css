@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #00000000;
+    padding:15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffdf00;
+}
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+
+}
+.whole img{
+    border: 2px solid #00000000;
+    border-radius: 50px;
+  
+}
+
+.list{
+    justify-content: space-between;
+    border-radius: 20px;
+    background-color: #ffffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
