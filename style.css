@@ -18,7 +18,10 @@ body{
     border-radius: 50px;
   
 }
-
+.whole{
+    display:flex;
+    justify-content: space-between;
+}
 .list{
     justify-content: space-between;
     border-radius: 20px;
